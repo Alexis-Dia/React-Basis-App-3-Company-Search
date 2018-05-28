@@ -1,0 +1,29 @@
+.footer {
+  background-color: #9b9b9b;
+  width: 100%;
+  margin-top: 50px;
+}
+
+.grid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(100px, 300px));
+  grid-gap: 50px;
+  padding: 25px;
+  padding-bottom: 10px;
+  justify-items: center;
+  justify-content: center;
+}
+
+.grid1 {
+  justify-self: center;
+  align-self: center;
+  justify-items: center;
+  justify-content: center;
+}
+
+.grid2 {
+  align-self: center;
+  justify-self: center;
+  justify-items: center;
+  justify-content: center;
+}

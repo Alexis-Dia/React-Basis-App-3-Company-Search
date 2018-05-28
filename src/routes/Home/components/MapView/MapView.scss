@@ -1,0 +1,50 @@
+.map-container1 {
+  padding: 5px;
+  margin-bottom: 2rem;
+  border-bottom: thin solid black
+}
+
+.map-container2 {
+  marginLeft: -50px;
+}
+
+.map-container3 {
+  height: 50px;
+  marginBottom: 25px;
+}
+
+.map-container4 {
+  textAlign: center;
+}
+
+.map-container5 {
+  textAlign: center;
+
+}
+
+.main-awesome-grid-style-1 {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+
+  grid-gap: 90px;
+  padding: 30px;
+  //padding-left: 120px;
+  padding-bottom: 0px;
+}
+
+.header-awesome-grid-style-1 {
+  padding-top: 30px;
+  display: grid;
+  grid-template-columns: 1fr min(250px) 1fr;
+}
+
+.card-awesome-grid-style-1 {
+  width: 100%;
+}
+
+.footer-awesome-grid-style-1 {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  display: grid;
+  grid-template-columns: 1fr 150px 1fr;
+}

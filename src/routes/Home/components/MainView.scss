@@ -1,0 +1,25 @@
+.main-header {
+  /*width: 100%;*/
+  backgroundColor: 'blue';
+  z-index: 1;
+}
+
+.main-header2 {
+  width: 100%;
+  overflow: hidden;
+}
+
+.main-header3 {
+  z-index: 100;
+  float: left;
+  position: absolute;
+  padding-left: 300px;
+}
+
+.main-header4 {
+  //width: 1920px;
+  height: 1100px;
+  margin-left: 0px;
+  z-index: 1;
+  position: static;
+}
